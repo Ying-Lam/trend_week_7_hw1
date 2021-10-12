@@ -4,4 +4,5 @@ Resources:
     Properties:
       AvailabilityZone: eu-central-1a
       ImageId: ami-058e6df85cfc7760b
+      InstanceType: t2.micro
 
