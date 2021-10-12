@@ -3,3 +3,4 @@ MyInstance:
   Properties:
     AvailabilityZone: us-west-2
     ImageId: ami-0ff8a91507f77f867
+#123
